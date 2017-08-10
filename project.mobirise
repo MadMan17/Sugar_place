@@ -138,9 +138,10 @@
               "name": "vkontakte",
               "family": "socicon",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "https://vk.com/sugar_place_ssp",
               "size": 0,
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "newWindow": false
             }
           },
           "media4": {
@@ -209,8 +210,12 @@
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "hellocoton",
+              "family": "socicon",
               "link": "https://mobirise.com",
-              "size": 0
+              "size": 0,
+              "active": true
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Sugar_place</a>",
@@ -244,7 +249,7 @@
                 "showText": true,
                 "text": "При первом посещении всем новым клиентам &nbsp;дарим шугаринг подмышек БЕСПЛАТНО!",
                 "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Записаться сейчас!</a> "
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"index.html#extForm4-6\" data-toolbar=\"-mbrBtnMove\">Записаться сейчас!</a> "
               },
               {
                 "active": true,
@@ -259,7 +264,7 @@
                 "showText": true,
                 "text": "Предоставляем качественные услуги за разумные деньги.<br>Работа опытного мастера превзойдёт все ваши ожидания!<br>100% гарантия качества. Мы вернём Вам деньги, если Вы останетесь не довольны!",
                 "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Записаться сейчас!</a> "
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"index.html#extForm4-6\" data-toolbar=\"-mbrBtnMove\">Записаться сейчас!</a> "
               }
             ],
             "fullScreen": true,
@@ -591,7 +596,7 @@
             "overlayColor": "#222"
           },
           "text": "Мы в соц. сетях",
-          "icons": "    <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/mobirise/\"><i class=\"socicon socicon-instagram\"></i></a>    <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"VKontakte\" target=\"_blank\" href=\"#\"><i class=\"socicon socicon-vkontakte\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Odnoklassniki\" target=\"_blank\" href=\"#\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-odnoklassniki\"></i></a> "
+          "icons": "    <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/mobirise/\"><i class=\"socicon socicon-instagram\"></i></a>    <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"VKontakte\" target=\"_blank\" href=\"https://vk.com/sugar_place_ssp\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-vkontakte\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Odnoklassniki\" target=\"_blank\" href=\"#\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-odnoklassniki\"></i></a> "
         },
         {
           "alias": "mobirise3-blocks/components",
