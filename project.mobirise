@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Sugar_place",
-    "currentPage": "index.html",
+    "currentPage": "Brows.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -63,13 +63,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#343e57"
+              "background": "#b08c52"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#414e6d!important"
+              "background": "#bb9c6a!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#475577"
+              "background": "#c0a375"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -95,7 +95,7 @@
           "_name": "extMenu1",
           "_anchor": "extMenu1-0",
           "_params": {
-            "bgColor": "#475577",
+            "bgColor": "#c0a375",
             "socialButtons": "3",
             "fontSize": 0.75,
             "fontName": {},
@@ -792,10 +792,10 @@
           "_anchor": "msg-box8-j",
           "_params": {
             "paddingTop": "5",
-            "paddingBottom": 3,
+            "paddingBottom": "3",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1239.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1330.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -810,7 +810,7 @@
             "showButton": true
           },
           "title": "Шугаринг",
-          "text": "<p>В кабинете красоты Sugar_place</p>",
+          "text": "<p>В кабинете красоты Sugar_place Вас окружат заботой, и в уютной обстановке Вы не заметите, как пролетит время. Результат не заставит себя ждать - гладкая кожа надолго</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"page1.html#extTable1-m\" data-toolbar=\"-mbrBtnMove\">Прайс-лист</a>"
         },
         {
@@ -840,13 +840,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#343e57"
+              "background": "#b08c52"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#414e6d!important"
+              "background": "#bb9c6a!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#475577"
+              "background": "#c0a375"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -872,7 +872,7 @@
           "_name": "extMenu1",
           "_anchor": "extMenu1-d",
           "_params": {
-            "bgColor": "#475577",
+            "bgColor": "#c0a375",
             "socialButtons": "3",
             "fontSize": 0.75,
             "fontName": {},
@@ -1007,7 +1007,7 @@
             "paddingBottom": 2,
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/img-extheader14-bg.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-5-2000x1333.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1015,7 +1015,7 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": 0.5,
+            "overlayOpacity": "0.6",
             "overlayColor": "#151515",
             "showTitle": true,
             "showSubtitle": false,
@@ -1023,18 +1023,18 @@
           },
           "mainTitle": "На какое время я могу забыть о проблеме нежелательных волос?",
           "mainSubtitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-          "date1": "1 January 2016",
-          "title1": "1. Multi Homepages",
-          "text1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam erat libero, bibendum in libero tempor, luctus volutpat ligula. Integer fringilla porttitor pretium. Nam erat felis, iaculis id justo ut, ullamcorper feugiat elit. Proin vel lectus auctor, porttitor ligula vitae, convallis leo. In eget massa elit.",
-          "date2": "2 Ferbuary 2016",
-          "title2": "2. Responsive Design",
-          "text2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam erat libero, bibendum in libero tempor, luctus volutpat ligula. Integer fringilla porttitor pretium. Nam erat felis, iaculis id justo ut, ullamcorper feugiat elit. Proin vel lectus auctor, porttitor ligula vitae, convallis leo. In eget massa elit.",
-          "date3": "3 March 2016",
-          "title3": "3. Smart Watch",
-          "text3": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam erat libero, bibendum in libero tempor, luctus volutpat ligula. Integer fringilla porttitor pretium. Nam erat felis, iaculis id justo ut, ullamcorper feugiat elit. Proin vel lectus auctor, porttitor ligula vitae, convallis leo. In eget massa elit.",
-          "date4": "4 April 2016",
-          "title4": "4. Design out of the box",
-          "text4": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam erat libero, bibendum in libero tempor, luctus volutpat ligula. Integer fringilla porttitor pretium. Nam erat felis, iaculis id justo ut, ullamcorper feugiat elit. Proin vel lectus auctor, porttitor ligula vitae, convallis leo. In eget massa elit.",
+          "date1": "1 неделя",
+          "title1": "1. День посещения мастера",
+          "text1": "Длина волосков 3-5 мм, перед процедурой необходимо пройти зоны скрабом НЕ НА МАСЛЯНОЙ основе. Это обеспечит лучшее сцепление пасты с волоском.",
+          "date2": "2 &nbsp;неделя",
+          "title2": "2. \"Проклёвывание волосков\"",
+          "text2": "Волоски после процедуры начинают появляться по истечении двух недель. В это время нужно помочь коже и регулярно (3 раза в неделю) пользоваться скрабом для тела, либо массажной варежкой.",
+          "date3": "&nbsp;3 неделя<br>",
+          "title3": "3. Отращиваем длину",
+          "text3": "Этот период самый сложный. Необходимо отрастить оптимальную длину для следующей процедуры. В это время рекомендуется не пользоваться бритвой либо кремом для депиляции и т.п.",
+          "date4": "4 неделя",
+          "title4": "4. День посещения мастера",
+          "text4": "&nbsp;Самый долгожданный день! Мы рады видеть Вас снова!",
           "date5": "5 May 2016",
           "title5": "5. Awesome Reports",
           "text5": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam erat libero, bibendum in libero tempor, luctus volutpat ligula. Integer fringilla porttitor pretium. Nam erat felis, iaculis id justo ut, ullamcorper feugiat elit. Proin vel lectus auctor, porttitor ligula vitae, convallis leo. In eget massa elit.",
@@ -1068,8 +1068,8 @@
           "_name": "extTable1",
           "_anchor": "extTable1-m",
           "_params": {
-            "rowСount": "3",
-            "colCount": "3",
+            "rowСount": "13",
+            "colCount": "2",
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": true,
@@ -1093,7 +1093,7 @@
           "info2": "entries",
           "info3": "(filtered from",
           "info4": "total entries)",
-          "table": "<thead><tr><th>Услуга</th><th>Длительнсть услуги</th><th>Цена</th></tr></thead><tbody><tr><td>Jeanna Schmal</td><td>44</td><td>2016-10-17</td></tr><tr><td>Caren Rials</td><td>35</td><td>2013-04-12</td></tr><tr><td>Leon Rogol</td><td>66</td><td>2016-05-22</td></tr></tbody>"
+          "table": "<thead><tr><th>Услуга</th><th>Цена</th></tr></thead><tbody><tr><td>В области лица (одна зона)</td><td>250 руб</td></tr><tr><td>Подмышечные впадины</td><td>300 руб</td></tr><tr><td>Руки выше локтя</td><td>400 руб</td></tr><tr><td>Руки до локтя (+локоть)</td><td>400 руб</td></tr><tr><td>Руки полностью</td><td>600 руб</td></tr><tr><td>Бикини \"под плавки\" (классика)*</td><td>500 руб</td></tr><tr><td>Бикини глубокое*</td><td>750 руб</td></tr><tr><td>Ягодицы</td><td>300 руб</td></tr><tr><td>Полоска на животе</td><td>250 руб</td></tr><tr><td>Бёдра (ноги выше колена)</td><td>600 руб</td></tr><tr><td>Голень (+колено)*</td><td>550 руб</td></tr><tr><td>Ноги полностью</td><td>1000 руб</td></tr><tr><td>*Доплата после бритвы</td><td>100 руб</td></tr></tbody>"
         },
         {
           "_inherit": "social-buttons2",
@@ -1110,13 +1110,13 @@
           "_params": {
             "paddingTop": "1",
             "paddingBottom": "1",
-            "bgImageRadio": false,
-            "parallax": true,
+            "bgImageRadio": true,
+            "parallax": false,
             "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
             "bgColor": "#2e2e2e",
-            "bgColorRadio": true,
-            "overlay": false,
-            "overlayOpacity": 0.5,
+            "bgColorRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.3",
             "overlayColor": "#222"
           },
           "text": "Мы в соц. сетях",
@@ -1132,42 +1132,44 @@
             "paddingBottom": 0,
             "images": [
               {
-                "tags": "Awesome",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/bike-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/bike.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Responsive",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/code-man-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
-                "caption": "Type caption here"
-              },
-              {
                 "tags": "Creative",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/coworkers-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
-                "caption": "Type caption here"
+                "thumb": "@PROJECT_PATH@/assets/images/1241415-2000x1475-800x590.jpg",
+                "image": "@PROJECT_PATH@/assets/images/1241415-2000x1475.jpg",
+                "caption": "Type caption here",
+                "active": false
               },
               {
                 "tags": "Animated",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/desktop-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/3cjwax9gjxa-2000x1500-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/3cjwax9gjxa-2000x1500.jpg",
                 "caption": "Type caption here",
                 "active": true
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/b37ce35714ebf67712cf406836a08a05-2000x1500-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/b37ce35714ebf67712cf406836a08a05-2000x1500.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/12352363461-2000x1499-800x599.jpg",
+                "image": "@PROJECT_PATH@/assets/images/12352363461-2000x1499.jpg",
+                "caption": "Type caption here",
+                "active": false
               }
             ],
             "spacing": "0",
